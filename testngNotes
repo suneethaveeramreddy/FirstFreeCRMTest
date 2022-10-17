@@ -1,0 +1,12 @@
+TestNG - Testing New Generation framework
+TDD (Test driven development) Framework
+It is a unit testing framework
+Purpose---It is used to design test cases in a systematic way
+---It generates very good HTML reports.
+---different annotations
+---we can set priorities/sequence for the test cases 
+---data provider
+---grouping 
+---dependency
+It is open source and freely available in the market
+It is also called Java unit testing Framework
